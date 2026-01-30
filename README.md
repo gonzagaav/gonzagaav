@@ -67,32 +67,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gonzagaav&show_icons=true&theme=graywhite&title_color=FF69B4&icon_color=FFB6C1&text_color=FF1493&bg_color=FFF0F5&border_color=FF69B4&hide_border=false" alt="GitHub Stats" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzagaav&layout=compact&theme=graywhite&title_color=FF69B4&text_color=FF1493&bg_color=FFF0F5&border_color=FF69B4&hide_border=false" alt="Top Languages" height="170"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gonzagaav&theme=graywhite&border=FF69B4&stroke=FF69B4&ring=FFB6C1&fire=FF1493&currStreakNum=FF1493&sideNums=FF1493&currStreakLabel=FF69B4&sideLabels=FF69B4&dates=FF69B4&background=FFF0F5)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=gonzagaav&theme=flat&no-frame=false&no-bg=false&column=7&margin-w=10&margin-h=10&title_color=FF69B4&text_color=FF1493&bg_color=FFF0F5&icon_color=FFB6C1)
-
-</div>
-
 ---
 
 ## 🌸 Welcome to My Journey!
@@ -107,52 +81,6 @@
 
 ---
 
-## 🎯 Current Goals
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[🎀 Goals] --> B[Learn to Code]
-    A --> C[Build Projects]
-    A --> D[Contribute to Open Source]
-    A --> E[Explore New Tech]
-    B --> F[✨ Success!]
-    C --> F
-    D --> F
-    E --> F
-```
-
-</div>
-
----
-
-## 💌 Let's Connect!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-gonzagaav-FF69B4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gonzagaav)
-[![Profile](https://img.shields.io/badge/Profile-AJ-FFB6C1?style=for-the-badge&logoColor=white)](https://github.com/gonzagaav)
-
-</div>
-
----
-
-## 🎨 Daily Inspiration
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote_bg_color=FFF0F5&quote_border_color=FF69B4&author_color=FF1493&quote_color=FF1493)
-
-</div>
-
----
-
-## 📈 Profile Views
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=gonzagaav&color=FF69B4&style=for-the-badge&label=VISITORS)
 
 ### Thanks for stopping by! 🎀
 
